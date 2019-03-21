@@ -3,7 +3,7 @@ package controllers
 import (
 	"fmt"
 	"github.com/revel/revel"
-	"onepower.net/app/models"
+	"github.com/hinet/onepower/app/models"
 	"time"
 )
 
